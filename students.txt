@@ -1,0 +1,7 @@
+01|Nuzhat|Spring 2025|Operating Systems-OS101 : Incomplete:X|Algorithms-AL101:retake:F|AI-AI101:Completed:A+|Operating Systems-OS101:complete:A|AI-AI101:complete:A-|Data communication-DC101:complete:A+|compiler-CM101:complete:A+
+02|Jerin|Autumn 2025|Operating Systems-OS101:incomplete:X|Algorithms-AL101:retake:F|AI-AI101:complete:B+|GEHE-GEHE101:incomplete:X
+03|Nabila|Summer2025
+04|Sumaia|Autumn2024|Algorithms-AL101:incomplete:X
+05|nusayba|autumn 25
+06|noushin|spring 25
+07|rija|autumn 25
